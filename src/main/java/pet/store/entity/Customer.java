@@ -13,6 +13,8 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
 
+
+//  this class defines the structure of the "customer" table in the database
 @Entity
 @Data
 public class Customer {

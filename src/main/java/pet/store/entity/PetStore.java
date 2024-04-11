@@ -17,6 +17,8 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
 
+
+//this class defines the structure of the "petStore" table in the database
 @Entity
 @Data
 public class PetStore {

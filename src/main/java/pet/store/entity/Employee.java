@@ -11,6 +11,8 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
 
+
+//this class defines the structure of the "employee" table in the database
 @Entity
 @Data
 public class Employee {
